@@ -1,0 +1,8 @@
+These are the scripts for the various devices on the unit.
+
+On the router PC:
+experiment_execute.sh
+collect_pi_status.sh
+gatherlogs.sh
+
+On Pi's:
